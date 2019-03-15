@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "clicks": 0,
+    "src": "./images/img0.png"
+
+  },
+  {
+    "id": 2,
+    "clicks": 0,
+    "src": "./images/img1.png"
+  },
+  {
+    "id": 3,
+    "clicks": 0,
+    "src": "./images/img2.png"
+  },
+  {
+    "id": 4,
+    "clicks": 0,
+    "src": "./images/img3.png"
+  },
+  {
+    "id": 5,
+    "clicks": 0,
+    "src": "./images/img4.png"
+  },
+  {
+    "id": 6,
+    "clicks": 0,
+    "src": "./images/img5.png"
+  },
+  {
+    "id": 7,
+    "clicks": 0,
+    "src": "./images/img6.png"
+
+  },
+  {
+    "id": 8,
+    "clicks": 0,
+    "src": "./images/img7.png"
+  },
+  {
+    "id": 9,
+    "clicks": 0,
+    "src": "./images/img8.png"
+  },
+  {
+    "id": 10,
+    "clicks": 0,
+    "src": "./images/img9.png"
+  },
+  {
+    "id": 11,
+    "clicks": 0,
+    "src": "./images/img10.png"
+  },
+  {
+    "id": 12,
+    "clicks": 0,
+    "src": "./images/img11.png"
+  }
+
+
+
+]
