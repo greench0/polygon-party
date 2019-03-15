@@ -1,13 +1,13 @@
 {
-  "main.js": "/clicky-game/static/js/main.a08d5897.chunk.js",
-  "main.js.map": "/clicky-game/static/js/main.a08d5897.chunk.js.map",
-  "runtime~main.js": "/clicky-game/static/js/runtime~main.895984e4.js",
-  "runtime~main.js.map": "/clicky-game/static/js/runtime~main.895984e4.js.map",
-  "static/css/2.61017619.chunk.css": "/clicky-game/static/css/2.61017619.chunk.css",
-  "static/js/2.f1bea3d9.chunk.js": "/clicky-game/static/js/2.f1bea3d9.chunk.js",
-  "static/js/2.f1bea3d9.chunk.js.map": "/clicky-game/static/js/2.f1bea3d9.chunk.js.map",
-  "index.html": "/clicky-game/index.html",
-  "precache-manifest.928fd52f828747852ee290f4d909de41.js": "/clicky-game/precache-manifest.928fd52f828747852ee290f4d909de41.js",
-  "service-worker.js": "/clicky-game/service-worker.js",
-  "static/css/2.61017619.chunk.css.map": "/clicky-game/static/css/2.61017619.chunk.css.map"
+  "main.js": "/polygon-party/static/js/main.a08d5897.chunk.js",
+  "main.js.map": "/polygon-party/static/js/main.a08d5897.chunk.js.map",
+  "runtime~main.js": "/polygon-party/static/js/runtime~main.f143837a.js",
+  "runtime~main.js.map": "/polygon-party/static/js/runtime~main.f143837a.js.map",
+  "static/css/2.61017619.chunk.css": "/polygon-party/static/css/2.61017619.chunk.css",
+  "static/js/2.f1bea3d9.chunk.js": "/polygon-party/static/js/2.f1bea3d9.chunk.js",
+  "static/js/2.f1bea3d9.chunk.js.map": "/polygon-party/static/js/2.f1bea3d9.chunk.js.map",
+  "index.html": "/polygon-party/index.html",
+  "precache-manifest.39395054832958843cbfb8da643f8bc9.js": "/polygon-party/precache-manifest.39395054832958843cbfb8da643f8bc9.js",
+  "service-worker.js": "/polygon-party/service-worker.js",
+  "static/css/2.61017619.chunk.css.map": "/polygon-party/static/css/2.61017619.chunk.css.map"
 }
